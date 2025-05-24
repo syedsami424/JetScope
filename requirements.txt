@@ -3,3 +3,4 @@ numpy
 tqdm
 dvc[s3]
 ipykernel
+pillow
