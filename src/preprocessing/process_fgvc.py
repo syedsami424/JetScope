@@ -8,7 +8,7 @@ RAW_DATA_DIR = Path("data/raw/data")
 IMAGE_DIR = RAW_DATA_DIR / "images"
 SPLIT_DIR = Path("data/processed") #output directory
 
-IMAGE_SIZE = (224, 244)
+IMAGE_SIZE = (300, 300)
 
 SPLITS = {
     "images_variant_train.txt": "train",

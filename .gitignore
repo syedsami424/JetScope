@@ -3,3 +3,4 @@ data/processed/
 !/data/raw.dvc
 !/data/processed.dvc
 venv/
+venv310/

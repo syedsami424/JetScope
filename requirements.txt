@@ -4,3 +4,5 @@ tqdm
 dvc[s3]
 ipykernel
 pillow
+keras
+tensorflow
